@@ -1,3 +1,6 @@
+Alunos : Marco Thulio De Santi Roncolato, Vitor Augusto Arantes Borges
+
+
 # Desafio-GBC063-
 Modelagem de MDP e Aprendizagem por Reforço aplicada ao jogo Bomberman — Desafio 1 (GBC063)
 Este repositório contém a apresentação e a documentação do Desafio 1 da disciplina, focado no desenvolvimento e modelagem de um ambiente baseado em Processo de Decisão de Markov (MDP) para o jogo Bomberman.
