@@ -1,4 +1,4 @@
-"""Ambiente Bomberman simplificado (agente único) no padrão Gymnasium."""
+
 import numpy as np
 import gymnasium as gym
 from gymnasium import spaces
