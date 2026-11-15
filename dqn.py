@@ -1,4 +1,4 @@
-"""DQN em PyTorch: rede Q convolucional, replay buffer e agente."""
+
 import copy
 import random
 from collections import deque
