@@ -1,5 +1,4 @@
-"""Treina o DQN no Bomberman. Uso: python train.py --episodes 3000
-Depois gere os gráficos com: python plot_results.py"""
+
 import argparse
 import csv
 import random
