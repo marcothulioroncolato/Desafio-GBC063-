@@ -1,5 +1,4 @@
-"""Gera os gráficos para a apresentação a partir dos CSVs do treino.
-Uso: python plot_results.py [pasta]   (padrão: pasta atual)"""
+
 import csv
 import os
 import sys
